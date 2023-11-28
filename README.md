@@ -92,7 +92,7 @@ Metagenomic binning gives useful overview information to assess your genome such
 
 
 ## Genome Annotation
-For genome annotation, the use of a single contig is needs. You can use the single read generated from the genome assembly service. 
+For genome annotation, the use of a single contig is needed. You can use the single read generated from the genome assembly job. 
 
 You can annotate your recipe and make it more specific with parameters of taxonomy name and ID. 
 
