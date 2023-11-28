@@ -1,6 +1,8 @@
 # BV-BRC-Walkthrough
 Hi! This is the BV-BRC Walkthrough for various data 
+
 There are two single read files included in the file section
+
 SRA accession numbers are also good practice: SRR390728_1.fastq.gz // SRR390728_2.fastq.gz
 
 # Why is BV-BRC helpful? 
