@@ -70,7 +70,7 @@ In the assembly process section, the tool, tool version and command line commman
 <img width="387" alt="image" src="https://github.com/smjablonska/BV-BRC-Walkthrough/assets/103958073/eec79f81-e487-42ff-a00a-02a96c300371">
 
 ## Metagenomic binning
-Metagenomic binning is used to bin portions of reads 
+Metagenomic binning is the process of grouping reads or contigs and assigning them to individual genome. 
 
 Input for metagenomic binning consists of either putting in two left anf right reads, one single read or inputting an SRA accession ID. 
 
