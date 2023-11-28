@@ -61,7 +61,7 @@ Once job is complete, there is an array of results you can access. One of import
 
 Results: Name_of_output_file_AssemblyReport.html
 
-The bandage plot is a tool for visualizing assembly graphs with connections. For people who have/know about bioinformatic theory - a de Brujin Graph. 
+The bandage plot is a tool for visualizing assembly graphs with connections. For people who have taken/know about bioinformatic theory - a de Brujin Graph. 
 
 <img width="331" alt="image" src="https://github.com/smjablonska/BV-BRC-Walkthrough/assets/103958073/1d66e5f2-9e83-4dcc-8a6d-945c131aa998">
 
