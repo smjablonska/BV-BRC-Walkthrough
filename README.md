@@ -1,5 +1,5 @@
 # BV-BRC-Walkthrough
-Hi! This is the BV-BRC Walkthrough for microbiome or miscellaneous data 
+Hi! This is the BV-BRC Walkthrough for various data 
 
 # Why is BV-BRC helpful? 
 
